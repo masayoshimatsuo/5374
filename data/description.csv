@@ -1,5 +1,6 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やすごみ,,,,#ea3b13
+資源ごみ（紙類、古着布類、ペットボトル、容プラ）,,,,#77ae1f
+燃やす粗大ごみ,,,,#ff6e59
+資源ごみ（空きびん、空き缶、容プラ）,,,,#2dc7aa
+燃えないごみ,,,,#733b96
